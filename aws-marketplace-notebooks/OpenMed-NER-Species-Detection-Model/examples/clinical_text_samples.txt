@@ -1,0 +1,51 @@
+Patient diagnosed with community-acquired pneumonia caused by Streptococcus pneumoniae.
+Blood culture results show growth of Escherichia coli with extended-spectrum beta-lactamase production.
+Wound infection at surgical site positive for methicillin-resistant Staphylococcus aureus (MRSA).
+Respiratory specimen culture yielded Pseudomonas aeruginosa resistant to multiple antibiotics.
+Candida albicans isolated from central venous catheter tip and blood culture.
+Clostridium difficile toxin positive in stool sample following prolonged antibiotic therapy.
+Helicobacter pylori detected in gastric biopsy using rapid urease test and histology.
+Aspergillus fumigatus infection diagnosed in immunocompromised patient with hematologic malignancy.
+Neisseria gonorrhoeae confirmed by nucleic acid amplification testing of urogenital specimen.
+Enterococcus faecium with vancomycin resistance isolated from peritoneal fluid.
+Microbiome analysis revealed predominance of Lactobacillus acidophilus in vaginal specimen.
+Mycobacterium tuberculosis complex identified using acid-fast bacilli staining and molecular testing.
+Klebsiella pneumoniae carbapenemase-producing strain detected in respiratory secretions.
+Acinetobacter baumannii multidrug-resistant isolate from ventilator-associated pneumonia case.
+Streptococcus pyogenes group A beta-hemolytic isolated from throat culture.
+Staphylococcus epidermidis contaminant versus true pathogen in blood culture bottle.
+Haemophilus influenzae type b meningitis confirmed by cerebrospinal fluid culture.
+Legionella pneumophila serogroup 1 detected using urinary antigen testing.
+Bordetella pertussis whooping cough diagnosed by polymerase chain reaction.
+Chlamydia trachomatis urethritis confirmed by nucleic acid amplification testing.
+Trichomonas vaginalis parasitic infection identified in wet mount preparation.
+Cryptococcus neoformans meningitis in AIDS patient with low CD4 count.
+Pneumocystis jirovecii pneumonia prophylaxis in organ transplant recipient.
+Cytomegalovirus reactivation in stem cell transplant patient receiving immunosuppression.
+Epstein-Barr virus infectious mononucleosis with atypical lymphocytes in peripheral blood.
+Herpes simplex virus type 1 oral lesions confirmed by viral culture.
+Varicella-zoster virus shingles reactivation along thoracic dermatome distribution.
+Respiratory syncytial virus bronchiolitis in pediatric patient requiring hospitalization.
+Influenza A H3N2 strain causing seasonal epidemic with high attack rates.
+Hepatitis B virus chronic infection with elevated liver enzymes and viral load.
+Human immunodeficiency virus type 1 with rapid disease progression to AIDS.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) COVID-19 pneumonia.
+Clostridioides difficile infection following broad-spectrum antibiotic treatment.
+Bacteroides fragilis anaerobic infection in post-operative abdominal abscess.
+Peptostreptococcus species isolated from deep tissue infection.
+Fusobacterium necrophorum causing Lemierre syndrome with internal jugular thrombosis.
+Actinomyces israelii cervicofacial actinomycosis with sulfur granules.
+Nocardia asteroides pulmonary infection in patient with chronic steroid use.
+Mycoplasma pneumoniae atypical pneumonia in college dormitory outbreak.
+Ureaplasma urealyticum urethritis in sexually active young adult.
+Rickettsia rickettsii Rocky Mountain spotted fever with characteristic rash.
+Borrelia burgdorferi Lyme disease with erythema migrans and arthritis.
+Treponema pallidum syphilis with positive rapid plasma reagin test.
+Leptospira interrogans leptospirosis following exposure to contaminated water.
+Bartonella henselae cat scratch disease with regional lymphadenopathy.
+Coxiella burnetii Q fever pneumonia in veterinarian with animal exposure.
+Francisella tularensis tularemia following tick bite in endemic area.
+Yersinia pestis plague with bubonic lymphadenopathy.
+Vibrio cholerae cholera with profuse watery diarrhea and dehydration.
+Salmonella enteritidis food poisoning with gastroenteritis symptoms.
+Campylobacter jejuni diarrheal illness following poultry consumption.
